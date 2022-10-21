@@ -180,4 +180,4 @@ async def on_ready():
 #----Bot-run----
 
 if __name__ == "__main__":
-	bot.run("")
+	bot.run("MTAzMjcyMzk0NDM2NjY4MjIzMg.GmP6SV.jXsPzPrXfv5RkXc9emWLkFK-BJHzHR9OK9KLcc")

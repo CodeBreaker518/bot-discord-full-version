@@ -10,7 +10,6 @@ import random
 
 #----variables----
 
-token = 'MTAzMjcyMzk0NDM2NjY4MjIzMg.GmP6SV.jXsPzPrXfv5RkXc9emWLkFK-BJHzHR9OK9KLcc'
 palabrasBlockeadas = ["porno","hentai","sexy", "sexo", "desnudo", "desnuda", "porn"]
 
 #----Bot----
@@ -181,4 +180,4 @@ async def on_ready():
 #----Bot-run----
 
 if __name__ == "__main__":
-	bot.run(token)
+	bot.run("")
